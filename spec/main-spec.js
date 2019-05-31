@@ -1,3 +1,4 @@
+"use strict";
 const main = require('../main/main');
 
 describe('taxi fee', function () {
